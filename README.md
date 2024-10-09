@@ -10,5 +10,5 @@ Este es un programa en C++ que demuestra cómo utilizar SQLite para gestionar un
 ## Requisitos
 
 - **C++11 o superior**: El programa debe compilarse con soporte para C++11 o superior.
-- **SQLite3**: Es necesario tener instalado SQLite3 para compilar y ejecutar este programa.
+- **SQLite3**: Es necesario tener instalado SQLite3 para compilar y ejecutar este programa, importante en caso de no tenerlo descargar el NuGet de SQLITE3_C_Plus_Plus en Visual Studio 2022.
   
